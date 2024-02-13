@@ -1,0 +1,96 @@
+
+<style>
+
+    p{
+        font-family:Arial;
+        text-align: center;
+        margin: 0px;
+
+
+
+
+    }
+    .shop{
+        font-weight: bold;
+        font-size: 30px;
+        margin-bottom: 20px;
+
+
+    }
+
+    .see{
+        margin-bottom: 20px;
+        font-weight: 700;
+
+    }
+
+    .learn{
+        color:rgb(59, 177, 231);
+    }
+
+
+
+
+
+</style>
+
+
+
+<p class="shop">Shopping for your business?</p>
+
+<p class="see">See how Apple at Work can help.</p>
+
+<p class="learn">Learn more &gt;</p>
+
+
+<style>
+
+    p{ 
+
+        margin:0px;
+        width: 100px;
+    }
+
+    body{
+        text-align: center;
+    }
+
+    .new{
+        color:orange;
+    
+    }
+
+    .mac{
+
+    }
+    .buy{
+
+        -align: center;
+    }
+
+
+
+
+
+
+</style>
+
+
+
+
+
+<p><span class="new">New </span>
+    <span class="mac">MacBook Pro </span>
+    <span class="super">Supercharged for pros.</span> 
+    <span class="from">From $1999</span> 
+</p>
+
+<button class="buy">Buy</button>
+
+
+
+
+
+
+
+
